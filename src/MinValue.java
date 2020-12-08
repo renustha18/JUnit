@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class MinValue {
 
-	public int FindMinValue(int[] num){
+	public int findMinValue(int[] num){
 
 		int min = num[0]; 
 

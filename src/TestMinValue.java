@@ -12,7 +12,7 @@ public class TestMinValue {
 		int expectedResult = 1;
 
 		MinValue obj = new MinValue();
-		int actualResult = obj.FindMinValue(num);
+		int actualResult = obj.findMinValue(num);
 
 		assertEquals(expectedResult, actualResult);
 
